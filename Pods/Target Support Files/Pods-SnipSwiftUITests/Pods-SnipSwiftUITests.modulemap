@@ -1,0 +1,6 @@
+framework module Pods_SnipSwiftUITests {
+  umbrella header "Pods-SnipSwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
